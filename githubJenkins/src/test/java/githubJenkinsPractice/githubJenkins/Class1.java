@@ -8,6 +8,7 @@ public class Class1 {
 	public void tc()
 	{
 		System.out.println("This is api batch");
+		System.out.println("changes done");
 		
 	}
 }
